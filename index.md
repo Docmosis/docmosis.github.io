@@ -7,10 +7,10 @@
 
 
 ## Docmosis Tornado
-[Tornado SDK for Java on GitHub]()
-[Tornado Resources](https://resources.docmosis.com/)
+- [Tornado SDK for Java on GitHub]()
+- [Tornado Resources](https://resources.docmosis.com/)
 
 ## Docmosis Java
-[Docmosis-Java SDK on GitHub]()
-[Docmosis-Java Resources](https://resources.docmosis.com/)
+- [Docmosis-Java SDK on GitHub]()
+- [Docmosis-Java Resources](https://resources.docmosis.com/)
 
