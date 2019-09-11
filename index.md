@@ -11,7 +11,7 @@
 [Docmosis-Java SDK]()
 
 
-## Docmosis Cloud | ## Docmosis Tornado | ## Docmosis Java
+Docmosis Cloud | Docmosis Tornado | Docmosis Java
 ------------ | ------------- | -------------
 [Cloud SDK for Java]() | [Tornado SDK for Java]() | [Docmosis-Java SDK]()
 
