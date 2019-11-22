@@ -2,7 +2,7 @@
 
 
 ## Docmosis Cloud
- - [Cloud SDK for Java here on GitHub](https://github.com/Docmosis/render-client-sdk)
+ - [Cloud SDK for Java here on GitHub](https://github.com/Docmosis/docmosis-cloud-sdk-java/)
  - [Cloud Resources](https://resources.docmosis.com/)
 
 
